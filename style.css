@@ -1,0 +1,10 @@
+body{
+   
+    background-color: aqua;
+}
+img{
+    transition: width 20s, height 20s, transform 2s;
+}
+img:hover{
+    transform: rotate(25deg);
+}
